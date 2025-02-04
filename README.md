@@ -13,3 +13,19 @@ Este proyecto permite gestionar una lista de amigos y realizar un sorteo para el
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/miru-qup/AmigoSecreto
+
+
+### Modificación del ejemplo de uso:
+
+```markdown
+## Ejemplo de uso:
+
+1. **Agregar amigos:**
+   - Escribe "Juan", "Maria", "Carlos" en el campo de texto y haz clic en **Agregar**.
+   - La lista mostrará: 
+     - Juan
+     - Maria
+     - Carlos
+
+2. **Sorteo:**
+   - Haz clic en el botón **Sorteo**. El sistema seleccionará aleatoriamente uno de los amigos de la lista, por ejemplo, "Maria" podría ser el amigo secreto.
